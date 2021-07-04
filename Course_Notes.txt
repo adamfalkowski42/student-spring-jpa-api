@@ -1,0 +1,4 @@
+## Quiz Question -- 1 
+	-- What is the difference between @Service and @Component both can be autowired.
+		-- need to retrieve answer
+		
